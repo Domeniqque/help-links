@@ -8,6 +8,9 @@ Here I collect some links that have helped me a lot... :heart: Did you write it?
   * [Parte 1](https://www.youtube.com/watch?v=aYXRTin4FYU)
   * [Parte 2](https://www.youtube.com/watch?v=p_W7n48wJOY)
   * [Parte 3](https://www.youtube.com/watch?v=OS7T_5_sqYY)
+  
+## CI/Code Quality
+* [Configurando Code Climate integrado ao Travis](http://brunozrk.github.io/codeclimate/2015/04/19/configurando-codeclimate-integrado-ao-travis.html)
 
 ## Others
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) :grin:
