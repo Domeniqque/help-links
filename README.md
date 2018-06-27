@@ -14,6 +14,7 @@ Here I collect some links that have helped me a lot... :heart: Did you write it?
 * [ACL no Vue 2](http://vuejs-brasil.com.br/acl-vue/)
 * [Herança e Composição com Vue.js](https://blog.codecasts.com.br/arquitetura-de-projetos-vue-js-com-ddd-a2bc26817793)
 * [Quick Tip: What Are Factory Functions in JavaScript](https://www.sitepoint.com/factory-functions-javascript/)
+* [JavaScript Multi threading com Web Workers](https://braziljs.org/blog/javascript-multi-threading-com-web-workers-2/)
 
 ## CI/Code Quality
 * [Configurando Code Climate integrado ao Travis](http://brunozrk.github.io/codeclimate/2015/04/19/configurando-codeclimate-integrado-ao-travis.html)
