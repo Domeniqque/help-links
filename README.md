@@ -8,6 +8,7 @@ Here I collect some links that have helped me a lot... :heart: Did you write it?
   * [Parte 1](https://www.youtube.com/watch?v=aYXRTin4FYU)
   * [Parte 2](https://www.youtube.com/watch?v=p_W7n48wJOY)
   * [Parte 3](https://www.youtube.com/watch?v=OS7T_5_sqYY)
+* [Testes: O que são? Aonde vivem?](https://medium.com/trainingcenter/testes-o-que-s%C3%A3o-aonde-vivem-4b8dfe12269e)
   
 ## JavaScript/Vue
 * [Arquitetura de projetos Vue.js com DDD](https://blog.codecasts.com.br/arquitetura-de-projetos-vue-js-com-ddd-a2bc26817793)
@@ -21,5 +22,6 @@ Here I collect some links that have helped me a lot... :heart: Did you write it?
 
 ## Others
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) :grin:
+* [Otimização prematura e Dívida técnica na construção do meu negócio](https://medium.com/trainingcenter/otimiza%C3%A7%C3%A3o-prematura-e-d%C3%ADvida-t%C3%A9cnica-na-constru%C3%A7%C3%A3o-do-meu-neg%C3%B3cio-49386e5b3260)
   
   
