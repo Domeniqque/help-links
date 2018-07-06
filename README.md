@@ -23,5 +23,6 @@ Here I collect some links that have helped me a lot... :heart: Did you write it?
 ## Others
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908) :grin:
 * [Otimização prematura e Dívida técnica na construção do meu negócio](https://medium.com/trainingcenter/otimiza%C3%A7%C3%A3o-prematura-e-d%C3%ADvida-t%C3%A9cnica-na-constru%C3%A7%C3%A3o-do-meu-neg%C3%B3cio-49386e5b3260)
-  
+* [Versionando seu projeto](https://willianjusten.com.br/semantic-version/)
+* [The main pillars of learning programming — and why beginners should master them](https://medium.freecodecamp.org/the-main-pillars-of-learning-programming-and-why-beginners-should-master-them-e04245c17c56)
   
